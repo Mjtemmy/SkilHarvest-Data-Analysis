@@ -15,4 +15,5 @@ The basic lines of codes used during analysis on SkilHarvest Stationary supply a
 ```
 ## Result/Findings
 This is the insight gotten from the analysis made on this project.
-![](
+![](Screenshot 2024-02-20 022221.png)
+![](Screenshot 2024-02-20 022258.png)
