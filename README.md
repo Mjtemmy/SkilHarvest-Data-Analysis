@@ -2,7 +2,7 @@
 This is where I documented my first project while learning data analysis with SkillHarvest
 
 ## Data Source
-Data was gotten from skilharvet instructor named SkilHarvest-stationary-supply [Download Here](Skilharvest-Stationary-Supply) 
+Data was gotten from skilharvet instructor named SkilHarvest-stationary-supplies [Download Here](Skilharvest-Stationary-Supplies.csv) 
 
 ## Data Analysis
 The basic lines of codes used during analysis on SkilHarvest Stationary supply are thus;
