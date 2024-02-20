@@ -14,3 +14,5 @@ The basic lines of codes used during analysis on SkilHarvest Stationary supply a
 =QUERY(A:H,"SELECT C,A,B,F WHERE C LIKE '%sk'",1)
 ```
 ## Result/Findings
+This is the insight gotten from the analysis made on this project.
+![](
