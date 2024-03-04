@@ -22,8 +22,14 @@ Data was gotten from skilharvet instructor named SkilHarvest-stationary-supplies
 ```
 =QUERY(A1:H44,"SELECT E,H,F WHERE (E='Aug' OR E='Sep')AND F=2014",1)
 ```
-![]()
+![](SSBLUE.png)
 
+#### 4. Show sales of items that start with Pen, include their region, sales rep and year.
+
+```
+=QUERY(A:H,"SELECT A,B,C,H,F WHERE C LIKE 'Pen%'",1)
+```
+<div align="center"> <img src="SStealgreen.png" </div>
 
 
 ## Data Analysis
