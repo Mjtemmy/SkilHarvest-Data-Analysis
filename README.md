@@ -35,7 +35,7 @@ Data was gotten from skilharvet instructor named SkilHarvest-stationary-supplies
 ```
 =QUERY(A:H,"SELECT C,A,B,F WHERE C LIKE '%sk'",1)
 ```
-
+<div align="center"> <img src= "screenshotone.png"</div>
 
 
 ## Data Analysis
