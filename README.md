@@ -45,7 +45,8 @@ Tools used for this analysis are;
 <div align="center"> <img src="screenshotone.png"</div>
 
 ## Data Visualization
-<div align="center">  <img src=""</div>
+<div align="center">  <img src="firstpowerbi.png"</div>
+  
 ## Data Analysis
 The basic lines of codes used during analysis on SkilHarvest Stationary supply are thus;
 ```
