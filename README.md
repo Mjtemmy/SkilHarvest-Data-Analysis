@@ -10,7 +10,7 @@ Data was gotten from skilharvet instructor named SkilHarvest-stationary-supplies
 ```
 =QUERY(A1:H44, "SELECT C,H,F WHERE (C='Binder' OR C='Pencil')AND F=2015",1)
 ```
-![]()
+![](SSGREEN.png)
 
 ## Data Analysis
 The basic lines of codes used during analysis on SkilHarvest Stationary supply are thus;
