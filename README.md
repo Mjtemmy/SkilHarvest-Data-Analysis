@@ -31,6 +31,12 @@ Data was gotten from skilharvet instructor named SkilHarvest-stationary-supplies
 ```
 <div align="center"> <img src="SStealgreen.png" </div>
 
+#### 5. Sales of items that end with ‘sk’, include their region, sales rep and year
+```
+=QUERY(A:H,"SELECT C,A,B,F WHERE C LIKE '%sk'",1)
+```
+
+
 
 ## Data Analysis
 The basic lines of codes used during analysis on SkilHarvest Stationary supply are thus;
