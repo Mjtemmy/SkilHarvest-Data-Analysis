@@ -1,8 +1,16 @@
 # SkilHarvest-Data-Analysis
-This is where I documented my first project while learning data analysis with SkillHarvest
+This is where I documented my first project while learning data analysis with SkilHarvest
 
 ## Data Source
 Data was gotten from skilharvet instructor named SkilHarvest-stationary-supplies [Download Here](https://docs.google.com/spreadsheets/d/1kIvUpU3t4_vJs3SVGH7i9hhOciQ8FELTxFv4CDy7WVA/edit#gid=32712049) 
+
+## Activities
+
+#### 1. Sales of binder items and pencil in 2015
+```
+=QUERY(A1:H44, "SELECT C,H,F WHERE (C='Binder' OR C='Pencil')AND F=2015",1)
+```
+![]()
 
 ## Data Analysis
 The basic lines of codes used during analysis on SkilHarvest Stationary supply are thus;
@@ -16,8 +24,6 @@ The basic lines of codes used during analysis on SkilHarvest Stationary supply a
 ## Result/Findings
 This is the insight gotten from the analysis made on this project.
 
-<div align="center">
-  <img src="Screenshotpurple.png"
-</div>
+<div align="center"> <img src="Screenshotpurple.png" </div>
 
-![](Screenshot 2024-02-20 022258.png)
+![](Screenshotpurple.png)
