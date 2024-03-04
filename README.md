@@ -12,6 +12,20 @@ Data was gotten from skilharvet instructor named SkilHarvest-stationary-supplies
 ```
 ![](SSGREEN.png)
 
+#### 2. Sales in Central and East region in 2014
+```
+=QUERY(A:H,"SELECT A,H,F WHERE (A='Central' OR A='East') AND F=2014",1)
+```
+![](Screenshotpurple.png)
+
+#### 3. Sales in August and September 2014
+```
+=QUERY(A1:H44,"SELECT E,H,F WHERE (E='Aug' OR E='Sep')AND F=2014",1)
+```
+![]()
+
+
+
 ## Data Analysis
 The basic lines of codes used during analysis on SkilHarvest Stationary supply are thus;
 ```
