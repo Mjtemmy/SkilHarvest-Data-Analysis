@@ -15,19 +15,19 @@ Tools used for this analysis are;
 ```
 =QUERY(A1:H44, "SELECT C,H,F WHERE (C='Binder' OR C='Pencil')AND F=2015",1)
 ```
-![](image/SSGREEN.png)
+![](images/SSGREEN.png)
 
 #### 2. Sales in Central and East region in 2014
 ```
 =QUERY(A:H,"SELECT A,H,F WHERE (A='Central' OR A='East') AND F=2014",1)
 ```
-![](image/Screenshotpurple.png)
+![](images/Screenshotpurple.png)
 
 #### 3. Sales in August and September 2014
 ```
 =QUERY(A1:H44,"SELECT E,H,F WHERE (E='Aug' OR E='Sep')AND F=2014",1)
 ```
-![](image/SSBLUE.png)
+![](images/SSBLUE.png)
 
 #### 4. Show sales of items that start with Pen, include their region, sales rep and year.
 
@@ -36,7 +36,7 @@ Tools used for this analysis are;
 ```
 
 <div align="center">
-<img src="image/SStealgreen.png"
+<img src="images/SStealgreen.png"
 </div>
 
 
@@ -46,12 +46,12 @@ Tools used for this analysis are;
 ```
 
 <div align="center">
-<img src="image/screenshotone.png"
+<img src="images/screenshotone.png"
 </div>
 
 ## Data Visualization
 <div align="center">  
-<img src="image/firstpowerbi.png"
+<img src="images/firstpowerbi.png"
 </div>
   
 ## Data Analysis
