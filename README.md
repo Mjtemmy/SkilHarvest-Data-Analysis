@@ -42,10 +42,15 @@ Tools used for this analysis are;
 ```
 =QUERY(A:H,"SELECT C,A,B,F WHERE C LIKE '%sk'",1)
 ```
-<div align="center"> <img src="screenshotone.png"</div>
+
+<div align="center">
+<img src="screenshotone.png"
+</div>
 
 ## Data Visualization
-<div align="center">  <img src="firstpowerbi.png"</div>
+<div align="center">  
+<img src="firstpowerbi.png"
+</div>
   
 ## Data Analysis
 The basic lines of codes used during analysis on SkilHarvest Stationary supply are thus;
