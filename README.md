@@ -34,9 +34,11 @@ Tools used for this analysis are;
 ```
 =QUERY(A:H,"SELECT A,B,C,H,F WHERE C LIKE 'Pen%'",1)
 ```
+
 <div align="center">
 <img src="SStealgreen.png"
 </div>
+
 
 #### 5. Sales of items that end with ‘sk’, include their region, sales rep and year
 ```
