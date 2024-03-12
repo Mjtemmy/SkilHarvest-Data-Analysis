@@ -62,4 +62,7 @@ Here we have Skilharvest data analysis students that were present in a class. Th
 - Deleted an outliers
 - Changed column names
 
-  ![](form-responses.png)
+  ![](formresponses.png)
+
+  ##### Data Visualization
+  ![]()
