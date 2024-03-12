@@ -6,10 +6,10 @@ Data was gotten from skilharvet instructor named SkilHarvest-stationary-supplies
 
 ## Data Analysis
 Tools used for this analysis are; 
-- Google Query
+- Google Sheet
 - PowerBI
   
-    Using google query to analyse the data at hand, 
+    Using google sheet to analyse the data at hand, 
   
 #### 1. Sales of binder items and pencil in 2015
 ```
@@ -35,9 +35,7 @@ Tools used for this analysis are;
 =QUERY(A:H,"SELECT A,B,C,H,F WHERE C LIKE 'Pen%'",1)
 ```
 
-<div align="center">
-<img src="images/SStealgreen.png"
-</div>
+![](images/SStealgreen.png)
 
 
 #### 5. Sales of items that end with ‘sk’, include their region, sales rep and year
@@ -45,14 +43,22 @@ Tools used for this analysis are;
 =QUERY(A:H,"SELECT C,A,B,F WHERE C LIKE '%sk'",1)
 ```
 
-<div align="center">
-<img src="images/screenshotone.png"
-</div>
+![](images/screenshotone.png")
 
-## Data Visualization
-<div align="center">  
-<img src="images/firstpowerbi.png"
-</div>
+
+## Data Visualization  
+The visualisation was carried out using powerBi
+![](images/firstpowerbi.png)
+
   
 
-![](Screenshotpurple.png)
+## 2.0 SkilHarvest Data-Analysis student data.
+Here we have Skilharvest data analysis students that were present in a class. The data was gotten through google form where everyone input their details and submitted, then it was generated through google sheet. [Download here](https://docs.google.com/spreadsheets/d/1Hp13nKLnKwjWoG7JF4wMRDaTPqjo3LO1SzK9Uc4fVoM/edit#gid=1040980080)
+
+#### Data Cleaning
+- The names came in uppercases and lowercases so I capitalized each names so as to have a uniform text.
+- I splitted the emails into columns
+- Deleted duplicate rows
+- Deleted an outliers
+- Changed column names
+- 
